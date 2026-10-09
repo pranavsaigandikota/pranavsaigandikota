@@ -23,14 +23,18 @@ human-computer interaction, music, and film.
 - Interested in applied AI, full-stack systems, cloud automation, and creative tools
 - I enjoy turning ambitious ideas into clear, usable products
 
+## Highlights
+
+🏆 **3rd Place Overall at ShellHacks 2026** — Paradise, selected from **1,400+ hackers**
+
 ## Featured work
 
 | Project | What it does | Stack |
 | --- | --- | --- |
-| [Encore](https://github.com/pranavsaigandikota/Encore) | An AI presentation co-pilot that tracks talking points and creates recovery slides in real time. | TypeScript · AI |
-| [MCPJAM](https://github.com/pranavsaigandikota/MCPJAM) | A self-contained music application and workshop for learning how MCP tool calls work. | Python · MCP |
-| [ColorsLab](https://github.com/pranavsaigandikota/ColorsLab) | A full-stack application for managing a personal collection of favorite colors. | JavaScript · PHP · MySQL |
-| [Personal Portfolio](https://github.com/pranavsaigandikota/PranavsPortfolio) | The source for my portfolio, resume, projects, and creative work. | JavaScript |
+| [Paradise](https://github.com/Akhileshreddym/Paradise) | Touch-only navigation for blind and DeafBlind users using Joy-Con haptics, computer vision, GPS, and web technologies. **3rd Place Overall at ShellHacks 2026.** | JavaScript · Node.js · Computer Vision · Haptics |
+| [uKnight](https://github.com/uKnight-Co/uKnight) | A college community platform with verified student access, randomized chat and video matching, and real-time communication. | React · Spring Boot · WebRTC · Redis · GCP |
+| [ReVision](https://github.com/pranavsaigandikota/Revision) | A real-time AI tutor that uses Gemini Vision and OCR to guide students through whiteboard problem solving. | React · Next.js · Python · Flask · Gemini |
+| [Satchel](https://github.com/pranavsaigandikota/Satchel) | An AI-powered inventory platform with shared group inventories, smart bill parsing, and an inventory-aware chatbot. | React · Spring Boot · PostgreSQL · Spring AI |
 
 ## What I work with
 
