@@ -1,15 +1,21 @@
 # About Me
 
-I’m a Computer Science student at the **University of Central Florida** and a
-software engineer focused on applied AI, full-stack systems, and human-centered
-technology. I enjoy building products that combine thoughtful interfaces with
-real-time communication, computer vision, and practical machine learning.
+I’m a Computer Science student at the **University of Central Florida**, a
+software engineer, and the **CS Tech Chair at SASE**, where I lead the web
+development team and help create technical opportunities for the student
+community. I enjoy building products that combine thoughtful interfaces with
+applied AI, real-time communication, computer vision, and practical machine
+learning.
 
 My recent work includes [Paradise](https://github.com/Akhileshreddym/Paradise),
 which placed **3rd Overall at ShellHacks 2026** among 1,400+ hackers, as well as
 [uKnight](https://github.com/uKnight-Co/uKnight),
 [ReVision](https://github.com/pranavsaigandikota/Revision), and
-[Satchel](https://github.com/pranavsaigandikota/Satchel).
+[Satchel](https://github.com/pranavsaigandikota/Satchel). I’m passionate about
+supporting the tech community through mentorship and hands-on workshops. My
+most recent workshop, [MCPJAM](https://github.com/pranavsaigandikota/MCPJAM),
+introduced students to the Model Context Protocol through a practical
+music-building project.
 
 ## 🌐 Socials
 
