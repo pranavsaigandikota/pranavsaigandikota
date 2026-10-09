@@ -1,10 +1,15 @@
-# 💫 About Me
+# About Me
 
-⚡ I’m Pranavsai Gandikota, a Computer Science student at the **University of Central Florida** building practical software at the intersection of applied AI, full-stack engineering, and creative technology.<br>
-🔭 I’m currently building AI-assisted developer tools, real-time systems, and accessible technology.<br>
-🏆 My team placed **3rd Overall at ShellHacks 2026** with [Paradise](https://github.com/Akhileshreddym/Paradise), selected from 1,400+ hackers.<br>
-🌱 I’m exploring model-to-tool interfaces, computer vision, and human-centered software experiences.<br>
-💬 Ask me about [Paradise](https://github.com/Akhileshreddym/Paradise), [uKnight](https://github.com/uKnight-Co/uKnight), [ReVision](https://github.com/pranavsaigandikota/Revision), or [Satchel](https://github.com/pranavsaigandikota/Satchel).<br>
+I’m a Computer Science student at the **University of Central Florida** and a
+software engineer focused on applied AI, full-stack systems, and human-centered
+technology. I enjoy building products that combine thoughtful interfaces with
+real-time communication, computer vision, and practical machine learning.
+
+My recent work includes [Paradise](https://github.com/Akhileshreddym/Paradise),
+which placed **3rd Overall at ShellHacks 2026** among 1,400+ hackers, as well as
+[uKnight](https://github.com/uKnight-Co/uKnight),
+[ReVision](https://github.com/pranavsaigandikota/Revision), and
+[Satchel](https://github.com/pranavsaigandikota/Satchel).
 
 ## 🌐 Socials
 
@@ -49,13 +54,5 @@
 ![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge)
 ![WebHID](https://img.shields.io/badge/WebHID-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)
 ![OAuth](https://img.shields.io/badge/OAuth-000000?style=for-the-badge&logo=auth0&logoColor=white)
-
-# 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=pranavsaigandikota&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=pranavsaigandikota&theme=tokyonight&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=pranavsaigandikota&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
-
----
 
 [![](https://visitcount.itsvg.in/api?id=pranavsaigandikota&icon=0&color=6)](https://visitcount.itsvg.in)
