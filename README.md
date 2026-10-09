@@ -5,7 +5,7 @@
 ### Software Engineer · Applied AI · Creative Technology
 
 I build practical AI-powered products at the intersection of software engineering,
-human-computer interaction, music, and film.
+human-computer interaction, and creative technology.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-pranavsaig.dev-111827?style=for-the-badge&logo=googlechrome&logoColor=white)](https://pranavsaig.dev/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranavsaig)
@@ -22,10 +22,6 @@ human-computer interaction, music, and film.
 - Based in **Orlando, Florida**
 - Interested in applied AI, full-stack systems, cloud automation, and creative tools
 - I enjoy turning ambitious ideas into clear, usable products
-
-## Highlights
-
-🏆 **3rd Place Overall at ShellHacks 2026** — Paradise, selected from **1,400+ hackers**
 
 ## Featured work
 
@@ -53,9 +49,8 @@ human-computer interaction, music, and film.
 
 ## Beyond code
 
-I also make films, animations, and music. My creative work helps me think about
-software as an experience: not only whether it works, but whether it is clear,
-memorable, and useful.
+I also make films, animations, and music. My creative work shapes how I think
+about software as an experience: clear, memorable, and useful.
 
 ## Currently
 
@@ -67,10 +62,7 @@ memorable, and useful.
 
 <div align="center">
 
-**Let's build something useful.**
-
 [Portfolio](https://pranavsaig.dev/) ·
-[GitHub](https://github.com/pranavsaigandikota) ·
 [LinkedIn](https://www.linkedin.com/in/pranavsaig) ·
 [Email](mailto:pranavsaigandikota@gmail.com)
 
