@@ -38,8 +38,18 @@ human-computer interaction, music, and film.
 
 ## What I work with
 
-`Python` `TypeScript` `JavaScript` `C#` `PHP` `React` `Node.js` `AI/ML`
-`MCP` `APIs` `MySQL` `Git` `Cloud & Automation`
+**Languages:** `Python` `TypeScript` `JavaScript` `Java` `C#` `PHP`
+
+**Frontend & backend:** `React` `Next.js` `Node.js` `Spring Boot` `Flask` `REST APIs`
+
+**AI & data:** `Gemini` `Spring AI` `Computer Vision` `OCR` `YOLO` `PostgreSQL`
+`MySQL` `Redis`
+
+**Real-time & cloud:** `WebRTC` `WebSockets` `WebHID` `GPS` `GCP` `Docker` `OAuth`
+`GitHub Actions`
+
+**Engineering interests:** `Applied AI` `Accessibility Technology` `Developer Tools`
+`Creative Technology` `Distributed Systems`
 
 ## Beyond code
 
@@ -50,8 +60,8 @@ memorable, and useful.
 ## Currently
 
 - Building AI-assisted developer and creative tools
-- Exploring model-to-tool interfaces and agentic workflows
-- Looking for opportunities to collaborate on thoughtful software products
+- Exploring real-time systems, model-to-tool interfaces, and accessible technology
+- Open to thoughtful software collaborations and internship opportunities
 
 ---
 
