@@ -1,69 +1,61 @@
-<div align="center">
+# 💫 About Me
 
-# Pranavsai Gandikota
+⚡ I’m Pranavsai Gandikota, a Computer Science student at the **University of Central Florida** building practical software at the intersection of applied AI, full-stack engineering, and creative technology.<br>
+🔭 I’m currently building AI-assisted developer tools, real-time systems, and accessible technology.<br>
+🏆 My team placed **3rd Overall at ShellHacks 2026** with [Paradise](https://github.com/Akhileshreddym/Paradise), selected from 1,400+ hackers.<br>
+🌱 I’m exploring model-to-tool interfaces, computer vision, and human-centered software experiences.<br>
+💬 Ask me about [Paradise](https://github.com/Akhileshreddym/Paradise), [uKnight](https://github.com/uKnight-Co/uKnight), [ReVision](https://github.com/pranavsaigandikota/Revision), or [Satchel](https://github.com/pranavsaigandikota/Satchel).<br>
 
-### Software Engineer · Applied AI · Creative Technology
-
-I build practical AI-powered products at the intersection of software engineering,
-human-computer interaction, and creative technology.
+## 🌐 Socials
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-pranavsaig.dev-111827?style=for-the-badge&logo=googlechrome&logoColor=white)](https://pranavsaig.dev/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranavsaig)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pranavsaigandikota@gmail.com)
 
-</div>
+# 💻 Tech Stack
+
+### Languages
+
+![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+![PHP](https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+### Frameworks & APIs
+
+![React](https://img.shields.io/badge/react-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/spring_boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Flask](https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge)
+
+### AI, Data & Infrastructure
+
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Computer Vision](https://img.shields.io/badge/computer_vision-FF6F00?style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/google_cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github_actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+
+### Real-Time & Accessibility
+
+![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge)
+![WebHID](https://img.shields.io/badge/WebHID-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)
+![OAuth](https://img.shields.io/badge/OAuth-000000?style=for-the-badge&logo=auth0&logoColor=white)
+
+# 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=pranavsaigandikota&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=pranavsaigandikota&theme=tokyonight&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=pranavsaigandikota&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 ---
 
-## About me
-
-- Computer Science student at the **University of Central Florida**
-- **3.99 GPA** and **CS Tech Chair @ SASE**
-- Based in **Orlando, Florida**
-- Interested in applied AI, full-stack systems, cloud automation, and creative tools
-- I enjoy turning ambitious ideas into clear, usable products
-
-## Featured work
-
-| Project | What it does | Stack |
-| --- | --- | --- |
-| [Paradise](https://github.com/Akhileshreddym/Paradise) | Touch-only navigation for blind and DeafBlind users using Joy-Con haptics, computer vision, GPS, and web technologies. **3rd Place Overall at ShellHacks 2026.** | JavaScript · Node.js · Computer Vision · Haptics |
-| [uKnight](https://github.com/uKnight-Co/uKnight) | A college community platform with verified student access, randomized chat and video matching, and real-time communication. | React · Spring Boot · WebRTC · Redis · GCP |
-| [ReVision](https://github.com/pranavsaigandikota/Revision) | A real-time AI tutor that uses Gemini Vision and OCR to guide students through whiteboard problem solving. | React · Next.js · Python · Flask · Gemini |
-| [Satchel](https://github.com/pranavsaigandikota/Satchel) | An AI-powered inventory platform with shared group inventories, smart bill parsing, and an inventory-aware chatbot. | React · Spring Boot · PostgreSQL · Spring AI |
-
-## What I work with
-
-**Languages:** `Python` `TypeScript` `JavaScript` `Java` `C#` `PHP`
-
-**Frontend & backend:** `React` `Next.js` `Node.js` `Spring Boot` `Flask` `REST APIs`
-
-**AI & data:** `Gemini` `Spring AI` `Computer Vision` `OCR` `YOLO` `PostgreSQL`
-`MySQL` `Redis`
-
-**Real-time & cloud:** `WebRTC` `WebSockets` `WebHID` `GPS` `GCP` `Docker` `OAuth`
-`GitHub Actions`
-
-**Engineering interests:** `Applied AI` `Accessibility Technology` `Developer Tools`
-`Creative Technology` `Distributed Systems`
-
-## Beyond code
-
-I also make films, animations, and music. My creative work shapes how I think
-about software as an experience: clear, memorable, and useful.
-
-## Currently
-
-- Building AI-assisted developer and creative tools
-- Exploring real-time systems, model-to-tool interfaces, and accessible technology
-- Open to thoughtful software collaborations and internship opportunities
-
----
-
-<div align="center">
-
-[Portfolio](https://pranavsaig.dev/) ·
-[LinkedIn](https://www.linkedin.com/in/pranavsaig) ·
-[Email](mailto:pranavsaigandikota@gmail.com)
-
-</div>
+[![](https://visitcount.itsvg.in/api?id=pranavsaigandikota&icon=0&color=6)](https://visitcount.itsvg.in)
